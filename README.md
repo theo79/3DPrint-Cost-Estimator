@@ -1,4 +1,4 @@
-# 🖨️ 3DPrint-Cost-Estimator
+# 3DPrint-Cost-Estimator
 A simple Python GUI app to estimate 3D printing costs, including filament, electricity, labor, machine wear, and profit margin.
 
 ## 🔹 Features
@@ -24,17 +24,17 @@ A simple Python GUI app to estimate 3D printing costs, including filament, elect
 
     The script calculates:
 
-        Filament Cost: Based on weight used
+ Filament Cost: Based on weight used
 
-        Electricity Cost: Based on print duration
+ Electricity Cost: Based on print duration
 
-        Labor Cost: Default €5.0/hour (adjustable)
+ Labor Cost: Default €5.0/hour (adjustable)
 
-        Machine Wear Cost: Default €1.5/hour (adjustable)
+ Machine Wear Cost: Default €1.5/hour (adjustable)
 
-        Total Price: Adds a 25% profit margin (modifiable)
+ Total Price: Adds a 25% profit margin (modifiable)
 
-    Displays the final estimated price in a GUI window.
+Displays the final estimated price in a GUI window.
 
 
 Screeenshot:
