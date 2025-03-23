@@ -21,9 +21,8 @@ A simple Python GUI app to estimate 3D printing costs, including filament, elect
 
 ⚙️ How It Works
 
-    Enter values for filament weight, filament price per kg, print time, and electricity cost.
-
-    The script calculates:
+Enter values for filament weight, filament price per kg, print time, and electricity cost.
+The script calculates:
 
 * Filament Cost: Based on weight used
 
