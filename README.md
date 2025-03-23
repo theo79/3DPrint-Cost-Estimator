@@ -19,7 +19,7 @@ A simple Python GUI app to estimate 3D printing costs, including filament, elect
    ```bash
    python cost_estimator.py
 
-   ⚙️ How It Works
+⚙️ How It Works
 
     Enter values for filament weight, filament price per kg, print time, and electricity cost.
 
