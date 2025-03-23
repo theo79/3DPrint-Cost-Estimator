@@ -16,7 +16,8 @@ A simple Python GUI app to estimate 3D printing costs, including filament, elect
    git clone https://github.com/theo79/3DPrint-Cost-Estimator.git
    cd 3DPrint-Cost-Estimator
 3. Run the script
-      python cost_estimator.py
+   ```bash
+   python cost_estimator.py
 
    ⚙️ How It Works
 
