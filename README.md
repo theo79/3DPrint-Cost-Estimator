@@ -1,13 +1,17 @@
 # 3DPrint-Cost-Estimator
 A simple Python GUI app and web-based tool to estimate 3D printing costs, including filament, electricity, labor, machine wear, and profit margin.
+
 🌐 Try the Online Version
 
 No need to install anything! Use the browser-based version here:
-🔗 3D Print Cost Estimator https://theo79.github.io
+   
+   🔗 3D Print Cost Estimator https://theo79.github.io
 
 ## 🔹 Features
 ✅ Web version available – no installation required
+
 ✅ Python GUI version (Tkinter) for offline use
+
 ✅ User-friendly interface with Tkinter  
 ✅ Calculates total cost including material, electricity, and labor  
 ✅ Adjustable machine wear cost (€1.5/hour)  
