@@ -41,4 +41,6 @@ Screeenshot:
 
 <img width="236" alt="1" src="https://github.com/user-attachments/assets/adcf1663-3ad4-47f9-81ea-1ff132732ef6" />
 
+This project is open for contributions. Feel free to suggest improvements! 
+
 
