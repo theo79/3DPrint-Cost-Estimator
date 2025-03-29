@@ -51,11 +51,9 @@ Screeenshot:
 
 <img width="236" alt="1" src="https://github.com/user-attachments/assets/adcf1663-3ad4-47f9-81ea-1ff132732ef6" />
 
-🤝 Contribute
 
-This project is open for contributions! Feel free to suggest improvements or add new features.
+ Feel free to suggest improvements or add new features.
 
-## If you find this tool useful: 
-[☕ Buy me a coffee via PayPal](https://www.paypal.com/paypalme/Tanastopoulos)
+
 
 
