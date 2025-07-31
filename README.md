@@ -2,7 +2,7 @@
 
 A simple, web-based calculator to estimate the cost of a 3D print based on filament usage, electricity, labor, machine wear, and desired profit margin.
 
-[👉 Try it Live](https://your-deployed-url-if-any.com)  
+[👉 Try it Live](https://theo79.github.io/)  
 💡 Feedback or suggestions? Email: [theocharis.anastopoulos@gmail.com](mailto:theocharis.anastopoulos@gmail.com)
 
 ---
