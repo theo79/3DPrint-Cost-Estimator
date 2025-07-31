@@ -25,7 +25,7 @@ This tool helps makers, designers, and 3D printing enthusiasts accurately calcul
 - 💶 Currency toggle (€, $)
 - 🧠 Tooltip hints for less obvious inputs
 - 📱 Responsive and lightweight
-- 💬 Ko-fi integration for tips
+
 
 ---
 
