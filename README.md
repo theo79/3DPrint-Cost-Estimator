@@ -5,7 +5,7 @@
 A simple, web-based calculator to estimate the cost of a 3D print based on filament usage, electricity, labor, machine wear, and desired profit margin.
 
 [👉 Try it Live](https://theo79.github.io/)  
-💡 Feedback or suggestions? Email: [theocharis.anastopoulos@gmail.com](mailto:theocharis.anastopoulos@gmail.com)
+💡 Feedback or suggestions? Email: [projects.theo79@gmail.com](mailto:projects.theo79@gmail.com)
 
 ---
 
@@ -113,4 +113,4 @@ Feel free to use, modify, and share.
 ## ✍️ Author
 
 Theocharis Anastopoulos  
-🇬🇷 Greece | [theocharis.anastopoulos@gmail.com](mailto:theocharis.anastopoulos@gmail.co
+🇬🇷 Greece |
