@@ -91,7 +91,7 @@ Got ideas or want to improve the tool?
 - Create a branch  
 - Submit a pull request  
 
-Or just email me with suggestions: [theocharis.anastopoulos@gmail.com](mailto:theocharis.anastopoulos@gmail.com)
+Or just email me with suggestions: [projects.theo79@gmail.com](mailto:projects.theo79@gmail.com)
 
 ---
 
